@@ -1,0 +1,13 @@
+classroom_id,name,capacity,is_lab,building,floor
+LH101,Main Lecture Hall,120,false,Main Building,1
+LH102,Lecture Hall A,80,false,Main Building,1
+LH201,Lecture Room 201,60,false,Main Building,2
+LH202,Lecture Room 202,60,false,Main Building,2
+CR301,Classroom 301,40,false,Main Building,3
+CR302,Classroom 302,40,false,Main Building,3
+LAB101,Computer Lab Alpha,30,true,Tech Wing,1
+LAB102,Computer Lab Beta,30,true,Tech Wing,1
+LAB201,Computer Lab Gamma,25,true,Tech Wing,2
+LAB202,Computer Lab Delta,25,true,Tech Wing,2
+PHYS101,Physics Lab,30,true,Science Wing,1
+CONF01,Conference Room A,20,false,Main Building,1 

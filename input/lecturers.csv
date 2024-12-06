@@ -1,0 +1,11 @@
+lecturer_id,name,subjects,can_lecture,can_practice,max_hours
+L001,Dr. Sarah Johnson,CS101;CS102;CS104,true;true;true,true;true;true,15;15;15
+L002,Prof. Michael Chen,CS102;CS103;CS105,true;true;true,true;true;true,18;18;18
+L003,Dr. Emily Brown,MATH101;MATH102;STAT101,true;true;true,true;true;true,12;12;12
+L004,Prof. David Wilson,CS101;CS104;CS105,true;true;true,true;true;true,15;15;15
+L005,Dr. Maria Garcia,PHYS101,true,true,10
+L006,Prof. James Taylor,ENG101,true,true,8
+L007,Dr. Robert Lee,CS103;CS105,true;true,true;true,12;12
+L008,Dr. Lisa Anderson,MATH101;MATH102,true;true,true;true,10;10
+L009,Prof. Thomas Wright,CS101;CS102,true;true,true;true,15;15
+L010,Dr. Anna Martinez,STAT101;MATH102,true;true,true;true,12;12 

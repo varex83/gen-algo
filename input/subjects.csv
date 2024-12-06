@@ -1,0 +1,11 @@
+subject_id,name,lecture_hours,practical_hours,requires_subgroups
+CS101,Introduction to Programming,2,2,true
+CS102,Data Structures and Algorithms,2,2,true
+MATH101,Discrete Mathematics,2,1,false
+MATH102,Linear Algebra,2,1,false
+CS103,Computer Architecture,2,1,true
+ENG101,Technical Writing,1,1,false
+PHYS101,Physics for Computing,2,1,true
+CS104,Web Development Basics,1,2,true
+CS105,Database Systems,2,2,true
+STAT101,Probability and Statistics,2,1,false 

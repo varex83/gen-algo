@@ -1,0 +1,8 @@
+group_id,name,student_count,subjects,subgroups
+CS1A,Computer Science Year 1 Group A,28,CS101;CS102;MATH101;ENG101;PHYS101,2
+CS1B,Computer Science Year 1 Group B,25,CS101;CS102;MATH101;ENG101;PHYS101,2
+CS1C,Computer Science Year 1 Group C,22,CS101;CS102;MATH101;ENG101;PHYS101,2
+CS2A,Computer Science Year 2 Group A,24,CS103;CS104;CS105;MATH102;STAT101,2
+CS2B,Computer Science Year 2 Group B,26,CS103;CS104;CS105;MATH102;STAT101,2
+SE2A,Software Engineering Year 2,30,CS103;CS104;CS105;MATH102;STAT101,3
+DS2A,Data Science Year 2,28,CS102;CS105;MATH102;STAT101,2 
